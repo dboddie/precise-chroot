@@ -31,5 +31,3 @@ To delete the chroot, use the host-scripts/chroot-remove.sh script:
 
 This unmounts the /dev and /proc directories inside the chroot and deletes
 the chroot directory.
-This is not a complete package that can be installed correctly. The scripts
-in host-scripts work, but only if run as root.
